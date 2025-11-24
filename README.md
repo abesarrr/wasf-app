@@ -9,7 +9,7 @@
 
 # 📸 Screenshot
 
-![App Screenshot](https://www.awesomescreenshot.com/image/57573578?key=a13caca5aebffdb936f0c3119094d984)
+![App Screenshot](https://github.com/abesarrr/wasf-app/blob/main/Welcome-Wasframwork-11-24-2025_06_03_PM.png?raw=true)
 
 ---
 
