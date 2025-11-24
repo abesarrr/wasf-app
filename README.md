@@ -1,6 +1,6 @@
 # WASF PHP Framework — Extended Edition 🚀
 
-![Badge](https://img.shields.io/badge/WASF-Framework-blue)
+![Badge](https://img.shields.io/badge/WASF-Framework-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![PHP](https://img.shields.io/badge/PHP-8.1%2B-purple)
